@@ -6,3 +6,14 @@ django-jazzmin
 drf-yasg
 djangorestframework
 django-filter
+openai==0.28.0
+nltk==3.8.1
+textblob==0.17.1
+spacy==3.6.1
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.1.0/en_core_web_sm-3.1.0.tar.gz#egg=en_core_web_sm==3.1.0
+transformers==4.33.2
+editdistance==0.6.2
+torch==2.0.1
+contextualSpellCheck==0.2.0
+
+
